@@ -1,0 +1,13 @@
+fp-info-cache
+*.kicad_sch-bak
+*-backups/*
+*.kicad_prl
+*.bak
+*.csv
+*.xml
+\#auto_saved_files#
+_autosave-*.kicad_pcb
+gerber/
+
+voltix-board-panel.kicad_pcb
+voltix-board-panel.kicad_pro
